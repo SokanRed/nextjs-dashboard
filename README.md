@@ -6,13 +6,7 @@ For more information, see the [course curriculum](https://nextjs.org/learn) on t
 
 For this course, we'll be building a simplified version of the financial dashboard that has:
 
-A public home page.
-A login page.
-Dashboard pages that are protected by authentication.
-The ability for users to add, edit, and delete invoices.
-The dashboard will also have an accompanying database, which you'll set up in a later chapter.
 
-By the end of the course, you'll have the essential skills needed to start building full-stack Next.js applications.
 
 Overview
 Here's an overview of features you'll learn about in this course:
